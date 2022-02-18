@@ -23,6 +23,8 @@ header {
 }
 
 .header nav {
+    padding-top: 15px;
+    margin-right:20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
@@ -62,7 +64,7 @@ p {
 .content {
     width: 900px;
     display: inline-block;
-    margin-left: 20px;
+    
 }
 
 .content-left {
@@ -97,7 +99,7 @@ p {
 }
 
 .content-right {
-    margin: auto 15px auto 15px;
+    margin: auto 15px auto;
     padding: 15px 15px 30px 15px;
     clear: both;
     float: right;
